@@ -23,14 +23,9 @@ from HelperFunctions_StochasticGeneration import *
 
 struct_names = ['./Example_Data/TwoPhaseSimple.npy',
                 './Example_Data/TwoPhaseElongated.npy',
+                './Example_Data/ThreePhaseSimple.npy',
                 './Example_Data/ThreePhaseElongated.npy',
-                './Example_Data/ThreePhaseCircles.npy',
                 './Example_Data/ThreePhaseInvertedCircles.npy',
-                './Example_Data/ThreePhaseExperimental.npy',
-                './Example_Data/ThreePhaseComplex.npy',
-                './Example_Data/TwoPhaseUniformCircles.npy',
-                './Example_Data/TwoPhaseDenseUniformCircles.npy',
-                './Example_Data/TwoPhaseUniformInvertedCircles.npy',
                 './Example_Data/TwoPhaseDenseUniformCircles.npy',
                 './Example_Data/ThreeD_Example.npy']
 
