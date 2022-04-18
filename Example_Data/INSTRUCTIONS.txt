@@ -1,1 +1,0 @@
-This folder contains some example microstructures for people to play around with. 
